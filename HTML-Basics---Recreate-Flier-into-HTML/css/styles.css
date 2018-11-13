@@ -1,0 +1,32 @@
+h1 {
+    font-family: 'Allan', cursive;
+     text-align: center;
+    font-style: italic;
+    font-weight: bold;
+    
+    }
+
+h2 {
+    font-family: 'Allan', cursive;
+    text-align: center;
+    color: #C00;
+    font-weight: normal;
+}
+
+#p0{
+   font-family: 'Allan', cursive;
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+
+
+#p1{
+    font-family: 'Allan', cursive;
+    margin-top: 50px;
+    font-size: 14px;
+}
+
+#p2{
+    font-family: 'Allan', cursive;
+    font-size: 11px;
+}
